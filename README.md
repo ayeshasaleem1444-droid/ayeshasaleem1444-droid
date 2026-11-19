@@ -35,7 +35,7 @@ Live: https://hussainclinic.pages.dev
 
 ## Currently
 
-- AI Engineering from Scratch — Phase 00 complete (environments, Git, APIs & keys, Docker, Jupyter); data management next
+- AI Engineering from Scratch
 - Building an ML travel-time prediction model for the Lahore route planner
 - Daily pandas + NumPy practice, committed the same day
 
